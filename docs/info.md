@@ -8,14 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 This project demonstrates an AND gate between two inputs showing the output with an LED
 
 ## How to test
-
 Flip input switches to test truth table, using LED output
 
 ## External hardware
-
 AND Gate
 LED
