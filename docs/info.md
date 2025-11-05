@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project demonstrates an AND gate between two inputs showing the output with an LED
 
 ## How to test
 
-Explain how to use your project
+Flip input switches to test truth table, using LED output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+AND Gate
+LED
